@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="news_feed">News Feed</string>
+    <string name="home">Home</string>
+    <string name="sports">Sports</string>
+    <string name="health">Health</string>
+    <string name="science">Science</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="technology">Technology</string>
+    <string name="published_at">Published At</string>
+    <string name="by_kirti">By Kirti</string>
+    <string name="main_content">Main Content</string>
+    <string name="main_heading_displays_here">Main Heading Displays Here!</string>
+    <string name="specific_news">Specific News</string>
+</resources>
